@@ -40,7 +40,7 @@ h1 {
     border-radius: 10px;
     background: transparent;
     font-size: 20px;
-    box-shadow: 0 0 7px magenta;
+    box-shadow: 0 0 7px blueviolet;
     cursor: pointer;
 }
 form .display 
@@ -54,7 +54,7 @@ form .display
 form .display input {
     background: white;
     border: none;
-    box-shadow: 0 0 15px blueviolet;
+    box-shadow: 0 0 15px magenta;
     text-align: right;
     flex: 1;
     font-size: 30px;
