@@ -54,7 +54,7 @@ form .display
 form .display input {
     background: white;
     border: none;
-    box-shadow: 0 0 15px magenta;
+    box-shadow: 0 0 15px hotpink;
     text-align: right;
     flex: 1;
     font-size: 30px;
